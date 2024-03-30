@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlphaMio/AlphaMio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlphaMio/AlphaMio/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AlphaMio/AlphaMio/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mugrose/Mugrose/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mugrose/Mugrose/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mugrose/Mugrose/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <!--
-**AlphaMio/AlphaMio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mugrose/Mugrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
